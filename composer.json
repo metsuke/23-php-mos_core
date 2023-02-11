@@ -2,12 +2,6 @@
     "name": "metsuke/mos_core",
     "description": "MetsuOS dependencies management core",
     "type": "metapackage",
-    "require": {
-        "nesbot/carbon": "3.x-dev"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "10.1.x-dev"
-    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
